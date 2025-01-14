@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo regularmente:
 Quer entrar em contato? Fique à vontade para me enviar uma mensagem!  
 📧 **Email:** jhonramos.dev@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/jhonramos-dev  
-
+🐙 **GitHub:** https://github.com/DevJhonRamos
 
 ---
 
