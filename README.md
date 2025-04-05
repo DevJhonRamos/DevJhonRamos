@@ -1,28 +1,25 @@
-# 🖥️ Portfólio de Jhonatas
+## Bem-vindo(a) ao perfil do Jhon Ramos 😁
 
-Bem-vindo ao meu portfólio! Aqui você encontra informações sobre mim, minhas habilidades técnicas e alguns dos projetos que desenvolvi ao longo da minha jornada como desenvolvedor.
+ <div>
+   <a href="https://github.com/DevJhonRamos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJhonRamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
 
-## 🌟 Sobre Mim
+### 📞 Quer entrar em contato? Fique à vontade para me enviar uma mensagem!
+<div> 
 
-Olá! Meu nome é **Jhonatas**, e sou um estudante de análise e desenvolvimento de sistemas, sou apaixonado por transformar ideias em soluções digitais. Tenho experiência em **Frontend, digitação rápida** e habilidades em linguagens como **[Python, JavaScript, etc.**.
+  <a href = "mailto:jhonramos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/jhonramos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-Meu foco é sempre buscando aprendizado contínuo e novas tecnologias.
-
-## 🚀 Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias e ferramentas que utilizo regularmente:
-
-- **Linguagens de Programação:** Python, JavaScript.
-- **Frontend:** HTML5, CSS3.
-
-
-
-## 📞 Contato
-
-Quer entrar em contato? Fique à vontade para me enviar uma mensagem!  
-📧 **Email:** jhonramos.dev@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/jhonramos-dev  
-🐙 **GitHub:** https://github.com/DevJhonRamos
-
----
 
